@@ -2,10 +2,6 @@
 ### Olá! Eu me chamo Geysa Graziella 🙋
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/grazi__geysa/)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](www.linkedin.com/in/geysa-graziella-2574461a5)
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-)](geysagraziella0@gmail.com)
 
 ![Geysa GitHub stats](https://github-readme-stats.vercel.app/api?username=GeysaGraziella&show_icons=true&theme=dark)
 
@@ -16,4 +12,8 @@
     <img aling="center" alt="py" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img aling="center" alt="html5" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-</div>
+</div><br/>
+
+Cursando 2º Semestre de Análise e Desenvolvimento de Sistemas 
+
+### Email: geysagraziella0@gmail.com
